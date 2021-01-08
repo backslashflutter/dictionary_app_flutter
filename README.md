@@ -5,7 +5,7 @@ Dictionary App In Flutter Using OwlBot API Framework (StreamBuilder)
 ## [Watch it on YouTube](https://youtu.be/IVOPNTpu9ME)
 
 
-![App UI](appImages/flightsearchui.jpg)
+![App UI](appImages/dictionaryapp.jpg)
  
 
 
